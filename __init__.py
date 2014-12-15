@@ -1,2 +1,2 @@
-from openerp import product
+from openerp.osv import product
 import stock
