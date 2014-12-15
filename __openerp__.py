@@ -15,9 +15,9 @@ This Module overwrites openerp.web.list.Binary field to show the product image i
            'static/src/js/view_list.js'
     ],
     "data": [
-        'product_view.xml',
-        'sale_view.xml',
-        'stock_view.xml'
+        'views/product_view.xml',
+        'views/sale_view.xml',
+        'views/stock_view.xml'
     ],
     'installable': True,
     "active": False,
