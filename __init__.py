@@ -1,2 +1,2 @@
-import product
+from openerp import product
 import stock
