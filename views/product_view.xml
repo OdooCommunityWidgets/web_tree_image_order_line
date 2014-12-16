@@ -7,7 +7,7 @@
             <field name="inherit_id" ref="product.product_template_tree_view"/>
             <field name="arch" type="xml">
                 <field name="name" position="before">
-                    <field name="image_small" widget='image'/>
+                    <field name="image_small" widget="image" class="oe_avatar"/>
                 </field>
             </field>
         </record>
