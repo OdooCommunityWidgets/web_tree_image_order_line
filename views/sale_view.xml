@@ -22,7 +22,7 @@
             <field name="model">sale.order</field>
             <field name="inherit_id" ref="sale.view_order_form"/>
             <field name="arch" type="xml">
-                <xpath expr="//page[@string='Order Lines']/field[@name='order_line']/form[@string='Sales Order Lines']/group/group/field[@name='product_id']" position="after">
+                <xpath expr="//form[@string='Sales Order']/sheet/notebook/page[@string='Order Lines']/field[@name='order_line']/form[@string='Sales Order Lines']/group/group/field[@name='product_id']" position="after">
                     <field name="image_small" widget="image"/>
                 </xpath> 
 
