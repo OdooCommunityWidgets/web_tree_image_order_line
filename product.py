@@ -1,1 +1,1 @@
-from openerp.osv import product
+from openerp.osv import fields, osv
