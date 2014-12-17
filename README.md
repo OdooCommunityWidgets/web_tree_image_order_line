@@ -18,7 +18,7 @@ This will provide you with the latest working 'stable' version of the module bui
 
 TODO: master
 ===================
-* Fix view_list.js for backend to allow Live Line Edit Saved to display a product image thumbnail after save.
+* Fix view_list.js for backend to allow Live Line Edit Saved to display a product image thumbnail after save. (refer to this: https://www.odoo.com/forum/how-to/developers-13/how-to-show-thumbnail-image-in-list-view-19907)
   * view_list.js needs to be added correctly to the backend javascript to allow for proper display of the thumbnail after save.
   * Add functionality for multi-image
     * Add compatibility (without dependency) with website_multi_image
