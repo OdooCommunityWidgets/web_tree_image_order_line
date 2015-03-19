@@ -13,9 +13,8 @@ This will provide you with the latest working 'stable' version of the module bui
 <H4>This module depends on the following OCA module by Stephan Rijnhart from Therp:</H4>
     https://github.com/OCA/web/tree/8.0/web_tree_image
 
-Please make sure you install web_tree_image from the following repository as follows:
+<H4>Please make sure you install web_tree_image from the following repository as follows:</H4>
     sudo git clone -b 8.0 https://github.com/OCA/web.git
-    
 Once web_tree_image from this repository has been installed you will have the necessary framework to add product images to any tree view.
 
 <H3>Live Line Edit Demo:</H3>
