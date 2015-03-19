@@ -20,13 +20,8 @@ Once web_tree_image from this repository has been installed (it's located in /we
 <H3>Live Line Edit Demo:</H3>
 <img src="https://cloud.githubusercontent.com/assets/2337666/5467578/dc092834-85fc-11e4-828b-c2ea1ec38852.png"/>
 
-<H3>Live Line Edit Saved Demo:  (Work in progress)</H3>
-<img src="https://cloud.githubusercontent.com/assets/2337666/5467579/dc0ad602-85fc-11e4-8429-cbcc3aae2091.png"/>
-
 TODO: master
 ===================
-* Fix view_list.js for backend to allow Live Line Edit Saved to display a product image thumbnail after save. (refer to this: https://www.odoo.com/forum/how-to/developers-13/how-to-show-thumbnail-image-in-list-view-19907)
-  * view_list.js needs to be added correctly to the backend javascript to allow for proper display of the thumbnail after save.
   * Add functionality for multi-image
     * Add compatibility (without dependency) with website_multi_image
       * Add modal box view for choosing which image to use on order line
